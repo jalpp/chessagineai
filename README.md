@@ -39,5 +39,5 @@ NEXT_PUBLIC_API_URL
 
 ## Demo
 
-- ![Demo Image]()
+- ![Demo Image](https://github.com/jalpp/chessagineai/blob/main/agineview1.png?raw=true)
 
